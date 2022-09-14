@@ -1,0 +1,29 @@
+1. Why do computers understand only binary language?
+ans:because it's a reliable way of storing the data.
+
+2. What is the full form of IDE?
+ans:integrated development environment.
+
+3. What is the difference between a text editor and a code editor?
+ans:A text editor simply allows you to write and edit text and it does not have anything built-in to help you to code
+ whereas a code editor is also a text editor but it also helps you write code.
+
+4. What are the steps to develop software using the C language?
+ans:1.Problem Definition.
+    2.Problem Analysis.
+    3.Algorithm Development.
+    4.Coding & Documentation.
+    5.Testing & Debugging.
+    6.Maintenance.
+
+5. Explore by your own:
+   
+  A) What is the latest version of C Language?
+  ans:c17
+  B) Who developed C Language?
+  ans:Dennis M. Ritchie.
+  c) What is the difference between System and Application Software?
+  ans:The system software is used for operating computer hardware. 
+      On the other hand Application software are installed according to user's requirements.
+  D) How to convert a number from a decimal number system to a binary number system?
+  ans:Divide-by-2 Method.
